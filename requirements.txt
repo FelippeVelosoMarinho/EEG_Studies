@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pandas
+ipykernel
+openneuro-py
+mne_bids
